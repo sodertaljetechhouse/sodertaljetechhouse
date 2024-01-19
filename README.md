@@ -1,4 +1,5 @@
 <h1 align="center">Hej 👋, Det är Södertälje Techhouse</h1>
+<p> Datareparationer, mobilreparationer, hantering av sociala medier, och utveckling av webbplatser och appar. Kontakta oss på: 073 561 79 40 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodertaljetechhouse&label=Profile%20views&color=0e75b6&style=flat" alt="sodertaljetechhouse" /> </p>
 
