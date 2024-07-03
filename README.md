@@ -12,12 +12,17 @@
 
 <h3 align="left">Kontakta mig:</h3>
 <p align="left">
-<a href="https://linktr.ee/sodertaljetechhouse">
-  <img align="center" src="https://ik.imagekit.io/himalayas/https://cdn-images.himalayas.app/sat8g12emalu3qeipet7b27n81l2?tr=w-256,q-100" height="30" width="40" alt="Linktree" />
-</a>
-<a href="https://twitter.com/sodertalje_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sodertalje_tech" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/s%C3%B6dert%C3%A4lje-techhouse-930710294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="södertälje techhouse" height="30" width="40" /></a>
-<a href="https://instagram.com/sodertalje_techhouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sodertalje_techhouse" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/marketplace/profile/61551934619414/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sodertalje_tech_fb_marketplace" height="30"   
+  width="40" /></a>
+  <a href="https://linktr.ee/sodertaljetechhouse">
+    <img align="center" src="https://ik.imagekit.io/himalayas/https://cdn-images.himalayas.app/sat8g12emalu3qeipet7b27n81l2?tr=w-256,q-100" height="30" width="40" alt="Linktree" />
+  </a>
+  <a href="https://twitter.com/sodertalje_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sodertalje_tech" height="30"   
+  width="40" /></a>
+  <a href="https://www.linkedin.com/in/s%C3%B6dert%C3%A4lje-techhouse-930710294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in- 
+  alt.svg" alt="södertälje techhouse" height="30" width="40" /></a>
+  <a href="https://instagram.com/sodertalje_techhouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sodertalje_techhouse" 
+  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Språk och verktyg:</h3>
