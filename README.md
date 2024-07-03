@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://twitter.com/sodertalje_tech" target="blank"><img src="https://img.shields.io/twitter/follow/sodertalje_tech?logo=twitter&style=for-the-badge" alt="sodertalje_tech" /></a> </p>
 
 - 📫 Du kan nå mig via **sodertaljetechhouse@gmail.com**
+<a href="https://www.facebook.com/marketplace/profile/61551934619414/">Facebook Marketplace</a>
 
 <h3 align="left">Kontakta mig:</h3>
 <p align="left">
