@@ -16,7 +16,7 @@
   <a href="https://www.facebook.com/marketplace/profile/61551934619414/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sodertalje_tech_fb_marketplace" height="30"   
   width="40" /></a>
   <a href="https://linktr.ee/sodertaljetechhouse">
-    <img align="center" src="https://ik.imagekit.io/himalayas/https://cdn-images.himalayas.app/sat8g12emalu3qeipet7b27n81l2?tr=w-256,q-100" height="30" width="40" alt="Linktree" />
+    <img align="center" src="https://play-lh.googleusercontent.com/x3Kpw4L_-miSO6eumND8Az4ltZ2Ype6vSrJeJJW44Jugzn8KuKXaqsu_E_Zjx0Db5Hw=w240-h480-rw" height="30" width="40" alt="Linktree" />
   </a>
   <a href="https://twitter.com/sodertalje_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sodertalje_tech" height="30"   
   width="40" /></a>
