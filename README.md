@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sodertalje_tech" target="blank"><img src="https://img.shields.io/twitter/follow/sodertalje_tech?logo=twitter&style=for-the-badge" alt="sodertalje_tech" /></a> </p>
 <p align="left"> <a href="https://www.facebook.com/marketplace/profile/61551934619414/">Facebook Marketplace</a> </p>
-<a href="https://sodertaljetechhouse.rf.gd/"> Södertälje Techhouse Butik </a>
+<!--<a href="https://sodertaljetechhouse.rf.gd/"> Södertälje Techhouse Butik </a>-->
 
 - 📫 Du kan nå mig via **sodertaljetechhouse@gmail.com**
 
